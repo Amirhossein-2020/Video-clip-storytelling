@@ -1,0 +1,7 @@
+torch
+transformers
+datasets>=4.0.0
+groq
+pillow
+numpy
+matplotlib
